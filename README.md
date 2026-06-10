@@ -1,9 +1,15 @@
 
-### Purpose 
+### Description 
 Detached repository for Foundry documentation study materials
 
-### Associations
-More information, study path, summary in [detached Notion Page](https://www.notion.so/kuzminklk/Foundry-31254d4de0358009ab05f5cc13d1b750?source=copy_link)
+### Purpose
+Part of computer-science study curriculum availabe in [Notion](https://app.notion.com/p/kuzminklk/31154d4de03580d7b5ceca5b187846be) (private for now)
 
 ### Structure
-Folders for documentation sections, «default-project» frolder for exploration of project structure 
+Folders for documentation sections, «default» frolder for exploration of project structure 
+
+### Sections
+1. Introduction
+2. Projects
+3. Forge
+4. Cast
