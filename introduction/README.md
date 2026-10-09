@@ -1,4 +1,3 @@
-
 ### Set up
-Install foundry dependences:
-```forge install```  
+
+Install Foundry dependencies: `forge install`

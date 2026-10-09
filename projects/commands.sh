@@ -1,4 +1,3 @@
-
 # Deploy via script
 forge script script/Counter.s.sol --broadcast --rpc-url sepolia --account development-0
 

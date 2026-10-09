@@ -1,4 +1,3 @@
-
 # Forked local chain
 anvil --fork-url https://eth.merkle.io
 

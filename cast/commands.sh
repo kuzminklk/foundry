@@ -1,4 +1,3 @@
-
 # Check block number
 cast block-number --rpc-url sepolia
 

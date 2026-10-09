@@ -1,8 +1,11 @@
-
 [profile.default]
 src = "src"
 out = "out"
 libs = ["lib"]
+
+[fmt]
+style = "tab"
+tab_width = 2
 
 [rpc_endpoints]
 ethereum = "${ETHEREUM_RPC_URL}"
